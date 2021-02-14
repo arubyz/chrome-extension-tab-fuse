@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Fuse",
+  "description": "Auto-close tabs after a delay",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
